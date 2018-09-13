@@ -1,6 +1,5 @@
 ![png](dataset/ml_image.png)
-
-
+---
 Here, we learned Machine learning which is the science of getting computers to act without being explicitly programmed.
 
 [Supervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised)
