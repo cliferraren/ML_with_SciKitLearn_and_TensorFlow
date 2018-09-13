@@ -1,4 +1,4 @@
-![png](dataset/ml_image.png)
+![png](images/ml_image.png)
 ---
 Here, we learned Machine learning which is the science of getting computers to act without being explicitly programmed.
 
