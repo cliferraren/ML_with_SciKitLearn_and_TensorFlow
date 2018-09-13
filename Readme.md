@@ -1,9 +1,10 @@
 ![png](images/ml_image.png)
 ---
 Here, we learned Machine learning which is the science of getting computers to act without being explicitly programmed.
-[Data Preprocessing:](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Data%20Preprocessing.ipynb)
- 1. [Data Preprocessing - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Univariate_Linear_Regression.ipynb)
- 
+[Data Preprocessing:](https://github.com/cliferraren/Machine-Learning/tree/master/Data%20PreProcessing)
+
+ 1. [Data Preprocessing](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Data%20Preprocessing.ipynb)
+---
 [Supervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised)
  1. [Univariate Linear Regression - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Univariate_Linear_Regression.ipynb)
  2. [Linear Regression - LSD DATA](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/LinearRegression_LSD_DATA.ipynb)
