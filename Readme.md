@@ -13,7 +13,7 @@ Here, we learned Machine learning which is the science of getting computers to a
 **[Supervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised)**
 
 
-*[Linear Regression:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Linear%20Regression)
+*[Regression:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Linear%20Regression)
 
 > Linear Regression is a fundamental algorithm in machine learning
 > It is used as a building block for other ML models.
@@ -28,7 +28,7 @@ Here, we learned Machine learning which is the science of getting computers to a
  7. [Linear Regression - Life Satisfaction](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Linear%20Regression/LifeSatisfaction_vs_Income.ipynb)
 
 
-*[Logistic Regression:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Logistic%20Regression)
+*[Classification:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Logistic%20Regression)
 
 >Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). Like all regression analyses, the logistic regression is a predictive analysis.
 
