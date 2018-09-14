@@ -4,12 +4,12 @@ Here, we learned Machine learning which is the science of getting computers to a
 
 
 
-**[Data Preprocessing:]**(https://github.com/cliferraren/Machine-Learning/tree/master/Data%20PreProcessing)
+**[Data Preprocessing:](https://github.com/cliferraren/Machine-Learning/tree/master/Data%20PreProcessing)**
 
  1. [Data Preprocessing - Brain Categorical](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Data%20Preprocessing.ipynb)
  2. [Data Preprocessing - Respiratory Disease](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Respiratory%20Disease.ipynb)
 ---
-**[Supervised Learning:]**(https://github.com/cliferraren/Machine-Learning/tree/master/Supervised)
+**[Supervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised)**
  1. [Univariate Linear Regression - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Univariate_Linear_Regression.ipynb)
  2. [Linear Regression - LSD DATA](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/LinearRegression_LSD_DATA.ipynb)
  3. [Quantifying Regression - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Quantifying_Regression.ipynb)
