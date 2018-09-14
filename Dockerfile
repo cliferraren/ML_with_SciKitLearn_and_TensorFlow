@@ -25,13 +25,13 @@ RUN pip3 install tensorflow numpy==1.14.5 && \
     pip3 install keras
 
 # Set the working directory to /app
-WORKDIR /app/Notebooks
+WORKDIR /app
 
 # Copy the current directory contents into the container at /app
 COPY . /app
 
 # Create mountpoint
-VOLUME /app/Notebooks
+VOLUME /app/data
 
 # Jupyter and Tensorboard ports
 EXPOSE 8888 6006
