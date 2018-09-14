@@ -33,6 +33,7 @@ Here, we learned Machine learning which is the science of getting computers to a
 >Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). Like all regression analyses, the logistic regression is a predictive analysis.
 
 1. [Logistic Regression - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Logistic%20Regression%20-Intro.ipynb)
+1. [Logistic Regression - Voice Gender Recognition](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Voice%20Recognition.ipynb)
 
  
 
