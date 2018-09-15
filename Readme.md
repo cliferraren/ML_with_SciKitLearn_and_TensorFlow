@@ -13,7 +13,7 @@ Here, we learned Machine learning which is the science of getting computers to a
 **[Supervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised)**
 
 
-*[Regression:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Linear%20Regression)
+* [Regression:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Linear%20Regression)
 
 > Linear Regression is a fundamental algorithm in machine learning
 > It is used as a building block for other ML models.
@@ -28,12 +28,26 @@ Here, we learned Machine learning which is the science of getting computers to a
  7. [Linear Regression - Life Satisfaction](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Linear%20Regression/LifeSatisfaction_vs_Income.ipynb)
 
 
-*[Classification:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Logistic%20Regression)
+* [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Logistic%20Regression)
 
->Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). Like all regression analyses, the logistic regression is a predictive analysis.
+> Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). Like all regression analyses, the logistic regression is a predictive analysis.
 
 1. [Logistic Regression - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Logistic%20Regression%20-Intro.ipynb)
-1. [Logistic Regression - Voice Gender Recognition](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Voice%20Recognition.ipynb)
+2. [Logistic Regression - Voice Gender Recognition](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Voice%20Recognition.ipynb)
 
- 
+---
 
+* [Decision Trees & Random Forests]
+
+> These True/False questions can be represented with a series of If/Else Statements
+
+> Decision Trees can become very complex and may not generalize well
+1. [Decision Trees](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Logistic%20Regression%20-Intro.ipynb)
+
+> Instead of a single, complex tree like in the previous slide, a random forest algorithm will sample the data and build many smaller, simpler decisions trees (i.e. A forest of trees).
+
+> Each of these trees are much simpler because they are built from a subset of the data. 
+
+> Each simple tree is considered a “weak classifier”, but when you combine them, they form a “strong classifier”
+
+1. [Random Forests](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Voice%20Recognition.ipynb)
