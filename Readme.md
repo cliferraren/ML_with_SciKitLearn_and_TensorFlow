@@ -37,17 +37,15 @@ Here, we learned Machine learning which is the science of getting computers to a
 
 ---
 
-* [Decision Trees & Random Forests]
+* [Decision Trees & Random Forests](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Decision%20Trees%20%26%20Random%20Forests)
 
 > These True/False questions can be represented with a series of If/Else Statements
-
 > Decision Trees can become very complex and may not generalize well
-1. [Decision Trees](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Logistic%20Regression%20-Intro.ipynb)
+
+1. [Decision Trees](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Decision%20Trees%20%26%20Random%20Forests/Decision%20Trees.ipynb)
 
 > Instead of a single, complex tree like in the previous slide, a random forest algorithm will sample the data and build many smaller, simpler decisions trees (i.e. A forest of trees).
-
 > Each of these trees are much simpler because they are built from a subset of the data. 
-
 > Each simple tree is considered a “weak classifier”, but when you combine them, they form a “strong classifier”
 
 1. [Random Forests](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Logistic%20Regression/Voice%20Recognition.ipynb)
