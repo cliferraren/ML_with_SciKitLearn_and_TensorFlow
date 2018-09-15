@@ -38,7 +38,7 @@ Here, we learned Machine learning which is the science of getting computers to a
 * [Decision Trees & Random Forests](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Decision%20Trees%20%26%20Random%20Forests)
 
 1. [Decision Trees](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Decision%20Trees%20%26%20Random%20Forests/Decision%20Trees.ipynb)
-> These True/False questions can be represented with a series of If/Else Statements
+    > These True/False questions can be represented with a series of If/Else Statements
     > Decision Trees can become very complex and may not generalize well
 
 
