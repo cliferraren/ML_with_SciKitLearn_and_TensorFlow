@@ -17,7 +17,7 @@ Here, we learned Machine learning which is the science of getting computers to a
 
 
 A. [Regression:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Regression)
-    > Regression is the task of predicting a continuous quantity.
+    > is the task of predicting a continuous quantity.
     
     
  1. [Univariate Linear Regression - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Regression/Univariate_Linear_Regression.ipynb) 
@@ -39,7 +39,7 @@ A. [Regression:](https://github.com/cliferraren/Machine-Learning/tree/master/Sup
 
 
 B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification)
-    > Classification is the task of predicting a discrete class label.
+    > is the task of predicting a discrete class label.
     
     
 1. [Logistic Regression - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Logistic%20Regression/Logistic%20Regression%20-Intro.ipynb)
@@ -56,9 +56,9 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
 3. [Random Forests](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees%20%26%20Random%20Forests/Random%20Forests.ipynb)
     > Instead of a single, complex tree like in the previous slide, a random forest algorithm will sample the data and build many smaller, simpler decisions trees (i.e. A forest of trees). Each of these trees are much simpler because they are built from a subset of the data. Each simple tree is considered a “weak classifier”, but when you combine them, they form a “strong classifier”
     
-    Demo:  [Diabetes Data using Decision Trees Classifier](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees%20%26%20Random%20Forests/DecisionTree%20Classifier-%20Diabetes%20Data.ipynb)
+    Demo:  [Decision Trees - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees%20%26%20Random%20Forests/DecisionTree%20Classifier-%20Diabetes%20Data.ipynb)
     
-5. [K-Nearest Neighbors] (https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/K_Nearest_Neighbors/K_Nearest_Neighbors%20-%20Intro.ipynb)
+5. [K-Nearest Neighbors](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/K_Nearest_Neighbors/K_Nearest_Neighbors%20-%20Intro.ipynb)
     > KNN is good for measuring distance-based approximations; it suffers from the curse of dimensionality.
 
     Demo: [K-Nearest Neighbors - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/K_Nearest_Neighbors/K_Nearest_Neighbors%20-%20Diabetes.ipynb)
