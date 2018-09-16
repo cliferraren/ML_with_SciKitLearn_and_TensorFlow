@@ -40,9 +40,9 @@ Here, we learned Machine learning which is the science of getting computers to a
 1. [Decision Trees](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Decision%20Trees%20%26%20Random%20Forests/Decision%20Trees.ipynb)
     > These True/False questions can be represented with a series of If/Else Statements
     > Decision Trees can become very complex and may not generalize well
+2. [Diabetes Data using Decision Trees Classifier](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Decision%20Trees%20%26%20Random%20Forests/DecisionTree%20Classifier-%20Diabetes%20Data.ipynb)
 
-
-1. [Random Forests](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Decision%20Trees%20%26%20Random%20Forests/Random%20Forests.ipynb)
+3. [Random Forests](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Decision%20Trees%20%26%20Random%20Forests/Random%20Forests.ipynb)
     > Instead of a single, complex tree like in the previous slide, a random forest algorithm will sample the data and build many smaller, simpler decisions trees (i.e. A forest of trees).
     > Each of these trees are much simpler because they are built from a subset of the data. 
     > Each simple tree is considered a “weak classifier”, but when you combine them, they form a “strong classifier”
