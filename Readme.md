@@ -6,13 +6,13 @@ Here, we learned Machine learning which is the science of getting computers to a
 
 **[Data Preprocessing:](https://github.com/cliferraren/Machine-Learning/tree/master/Data%20PreProcessing)**
 
- 1. [Data Preprocessing - Brain Categorical](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Data%20Preprocessing.ipynb)
- 2. [Data Preprocessing - Respiratory Disease](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Respiratory%20Disease.ipynb)
+ 1. [Brain Categorical](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Data%20Preprocessing.ipynb)
+ 2. [Respiratory Disease](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Respiratory%20Disease.ipynb)
  
  
 ---
 
-**[Grid Search](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/GridSearch) **
+**[Grid Search](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/GridSearch)**
     
     > Is a technique through which we can come to know the best parameters for a machine learning model.
     
