@@ -67,3 +67,5 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
     > Works where there is a definite distinction between two classifications.
     
     > Prefers binary classification problems.
+    
+    Demo: [Support Vector Machine - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/SVM/Support%20Vector%20Machine%20-%20Diabetes.ipynb)
