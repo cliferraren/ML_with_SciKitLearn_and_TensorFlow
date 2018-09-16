@@ -6,9 +6,10 @@ Here, we learned Machine learning which is the science of getting computers to a
 
 **[Data Preprocessing:](https://github.com/cliferraren/Machine-Learning/tree/master/Data%20PreProcessing)**
 
- 1. [Brain Categorical](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Data%20Preprocessing.ipynb)
- 2. [Respiratory Disease](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Respiratory%20Disease.ipynb)
+ 1. [Demo: Brain Categorical](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Data%20Preprocessing.ipynb)
+ 2. [Demo:  Respiratory Disease](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Respiratory%20Disease.ipynb)
  
+ 3. [One-Hot Encoding](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/One-Hot%20Encoding.ipynb)
  
 ---
 
