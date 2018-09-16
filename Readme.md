@@ -62,3 +62,8 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
     > KNN is good for measuring distance-based approximations; it suffers from the curse of dimensionality.
 
     Demo: [K-Nearest Neighbors - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/K_Nearest_Neighbors/K_Nearest_Neighbors%20-%20Diabetes.ipynb)
+
+6. [Support Vector Machine](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/SVM/Support%20Vector%20Machine%20-%20Intro.ipynb)
+    > Works where there is a definite distinction between two classifications.
+    
+    > Prefers binary classification problems.
