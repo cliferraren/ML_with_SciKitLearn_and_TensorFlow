@@ -12,6 +12,14 @@ Here, we learned Machine learning which is the science of getting computers to a
  
 ---
 
+**[Grid Search](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/GridSearch) **
+    
+    > Is a technique through which we can come to know the best parameters for a machine learning model.
+    
+    > The traditional way of performing hyperparameter optimization has been grid search
+    
+
+---
 
 **[Supervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised)**
 
@@ -70,7 +78,3 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
     
     Demo: [Support Vector Machine - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/SVM/Support%20Vector%20Machine%20-%20Diabetes.ipynb)
 
-7. [Grid Search](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/GridSearch)
-    > Is a technique through which we can come to know the best parameters for a machine learning model.
-    
-    > The traditional way of performing hyperparameter optimization has been grid search
