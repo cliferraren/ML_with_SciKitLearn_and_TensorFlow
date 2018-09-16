@@ -13,8 +13,9 @@ Here, we learned Machine learning which is the science of getting computers to a
 ---
 
 **[Hyperparameter Optimization](https://github.com/cliferraren/Machine-Learning/tree/master/Hyperparameter%20Optimization)**
-    A. [Grid Search](https://github.com/cliferraren/Machine-Learning/blob/master/Hyperparameter%20Optimization/GridSearch%20-%20Intro.ipynb)
-    
+
+A. [Grid Search](https://github.com/cliferraren/Machine-Learning/blob/master/Hyperparameter%20Optimization/GridSearch%20-%20Intro.ipynb)
+
     > Is a technique through which we can come to know the best parameters for a machine learning model.
     > The traditional way of performing hyperparameter optimization has been grid search
     
