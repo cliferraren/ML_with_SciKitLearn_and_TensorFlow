@@ -12,7 +12,7 @@ Here, we learned Machine learning which is the science of getting computers to a
  
 ---
 
-**[Grid Search](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/GridSearch)**
+**[Hyperparameter Optimization](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/GridSearch)**
     
     > Is a technique through which we can come to know the best parameters for a machine learning model.
     
