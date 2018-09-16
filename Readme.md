@@ -18,9 +18,8 @@ A. [Grid Search](https://github.com/cliferraren/Machine-Learning/blob/master/Hyp
 
     > Is a technique through which we can come to know the best parameters for a machine learning model.
     > The traditional way of performing hyperparameter optimization has been grid search
-    
-    Demo: [Grid Search - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Hyperparameter%20Optimization/Grid%20Search%20-%20Diabetes%20Data.ipynb)
-
+      
+   Demo: [Grid Search - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Hyperparameter%20Optimization/Grid%20Search%20-%20Diabetes%20Data.ipynb)
 
 ---
 
