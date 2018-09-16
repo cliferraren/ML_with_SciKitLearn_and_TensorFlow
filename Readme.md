@@ -81,3 +81,9 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
     
     Demo: [Support Vector Machine - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/SVM/Support%20Vector%20Machine%20-%20Diabetes.ipynb)
 
+7. [Neural Network](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/Neural%20Network)
+    > Little restriction bias.
+    
+    > Prefers binary inputs.
+    
+    Demo: [Neural Network using Keras - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Neural%20Network/Neural%20Network.ipynb)
