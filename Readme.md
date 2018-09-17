@@ -91,3 +91,5 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
 8. [Deep Learning](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/DeepLearning)
     
     Demo: [Deep Learning - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/Deep%20Learning.ipynb)
+    
+    Demo: [Deep Learning - Moons](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/DeepLearning%20-%20Moons.ipynb)
