@@ -99,3 +99,9 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
     Demo: [Saving Models Learned](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/Saving_Models.ipynb)
     
     Demo: [SmartPhone Activity Monitor](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/SmartPhone%20Activity%20Detector.ipynb)
+    
+---
+
+**[Unsupervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Unsupervised)**
+
+1. [KMeans](https://github.com/cliferraren/Machine-Learning/tree/master/Unsupervised/KMeans)
