@@ -87,3 +87,7 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
     > Prefers binary inputs.
     
     Demo: [Neural Network using Keras - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Neural%20Network/Neural%20Network.ipynb)
+    
+8. [Deep Learning](https://github.com/cliferraren/Machine-Learning/tree/master/Supervised/Classification/DeepLearning)
+    
+    Demo: [Deep Learning - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/Deep%20Learning.ipynb)
