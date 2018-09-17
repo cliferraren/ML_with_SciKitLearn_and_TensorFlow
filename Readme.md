@@ -104,4 +104,4 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
 
 **[Unsupervised Learning:](https://github.com/cliferraren/Machine-Learning/tree/master/Unsupervised)**
 
-1. [KMeans](https://github.com/cliferraren/Machine-Learning/tree/master/Unsupervised/KMeans)
+1. [KMeans - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Unsupervised/KMeans/KMeans.ipynb)
