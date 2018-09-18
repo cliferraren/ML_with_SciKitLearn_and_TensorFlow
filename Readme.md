@@ -106,3 +106,5 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
 
 1. [KMeans - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Unsupervised/KMeans/KMeans.ipynb)
     > Will find the most optimal centroids of clusters. One nice property of K-Means clustering is that the clusters will be strict, spherical in nature, and converge to a solution.
+    
+    Demo: [KMeans](https://github.com/cliferraren/Machine-Learning/blob/master/Unsupervised/KMeans/KMeans%20-%20Demo.ipynb)
