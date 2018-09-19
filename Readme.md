@@ -59,15 +59,17 @@ B. [Classification:](https://github.com/cliferraren/Machine-Learning/tree/master
     Demo: [Logistic Regression - Voice Gender Recognition](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Logistic%20Regression/Voice%20Recognition.ipynb)
     
 
-2. [Decision Trees - Intro ](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees%20%26%20Random%20Forests/Decision%20Trees.ipynb)
+2. [Decision Trees - Intro ](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees/Decision%20Trees.ipynb)
     > Prefers problems with categorical data.
     
     > Becomes less useful on problems with low covariance
     
-3. [Random Forests](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees%20%26%20Random%20Forests/Random%20Forests.ipynb)
+    Demo:  [Decision Trees - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees/DecisionTree%20Classifier-%20Diabetes%20Data.ipynb)
+    
+3. [Random Forests](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Random%20Forest/Random%20Forests.ipynb)
     > Instead of a single, complex tree like in the previous slide, a random forest algorithm will sample the data and build many smaller, simpler decisions trees (i.e. A forest of trees). Each of these trees are much simpler because they are built from a subset of the data. Each simple tree is considered a “weak classifier”, but when you combine them, they form a “strong classifier”
     
-    Demo:  [Decision Trees - Diabetes Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Decision%20Trees%20%26%20Random%20Forests/DecisionTree%20Classifier-%20Diabetes%20Data.ipynb)
+    Demo:  [Random Forest - BBC Data](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/Random%20Forest/Random%20Forest%20-%20BBC%20Data.ipynb)
     
 5. [K-Nearest Neighbors](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/K_Nearest_Neighbors/K_Nearest_Neighbors%20-%20Intro.ipynb)
     > KNN is good for measuring distance-based approximations; it suffers from the curse of dimensionality.
